@@ -4,13 +4,11 @@
 
 
 ## Features
-- Open Source
-- Free
-- Alternative To Paid URL Shorteners
+- Open Source, Secure
+- Free Alternative To Paid URL Shorteners
 - 24/7 Runtime
-- Secure
 - Made In Python (Flask)
-- Database Used - PostgreSQL
+- Database Used : PostgreSQL
 - A Dashboard
 
 
